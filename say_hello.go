@@ -4,3 +4,7 @@ package go_say_hello
 func SayHello() string {
 	return "hello Word !!"
 }
+
+func SayName() string {
+	return "hello Bachtiar Firdaus !!"
+}
