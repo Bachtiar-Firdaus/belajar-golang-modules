@@ -5,6 +5,6 @@ func SayHello() string {
 	return "hello Word !!"
 }
 
-func SayName() string {
-	return "hello Bachtiar Firdaus !!"
+func SayName(name string) string {
+	return "hello Bachtiar Firdaus !!" + name
 }
